@@ -1,13 +1,19 @@
+<h1 align="center">Hi there, I'm Yurii</h1>
+<h3 align="center">I'm a Python developer. Here you can find some of my projects.</h3>
+
+<h1 align="left">Languages and Tools</h1>
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/django%20rest-ff1709?style=for-the-badge&logo=django&logoColor=white)
 ![](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
 ![](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
 ![](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
-![]([https://img.shields.io/badge/-DOCKER-blue](https://camo.githubusercontent.com/63350538fde994bc287ccd4908809301e157980e6564bf78d2c5cec22c0a5914/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446f636b65722d3243413545303f7374796c653d666f722d7468652d6261646765266c6f676f3d646f636b6572266c6f676f436f6c6f723d7768697465))
+![](https://img.shields.io/badge/-DOCKER-blue)
+
+
 <h1 align="center">Hi there, I'm Yurii</h1>
 <h3 align="center">I'm a Python developer. Here you can find some of my projects.</h3>
 
-[![codewars](https://www.codewars.com/users/Hedin_11/badges/large)](https://www.codewars.com/users/Hedin_11) 
+[![codewars](https://www.codewars.com/users/Hedin_11/badges/small)](https://www.codewars.com/users/Hedin_11) 
 
 <!--
 **LylovY/LylovY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
