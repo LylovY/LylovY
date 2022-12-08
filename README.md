@@ -7,9 +7,8 @@
 <h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Yurii</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">I'm a Python developer. Here you can find some of my projects.</h3>
-### Hi there 👋
 
-[![codewars](https://www.codewars.com/users/username/badges/large)](https://www.codewars.com/users/Hedin_11) 
+[![codewars](https://www.codewars.com/users/Hedin_11/badges/large)](https://www.codewars.com/users/Hedin_11) 
 
 <!--
 **LylovY/LylovY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
