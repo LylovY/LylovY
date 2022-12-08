@@ -2,16 +2,13 @@
 <h3 align="center">I'm a Python developer. Here you can find some of my projects.</h3>
 
 <h1 align="left">Languages and Tools</h1>
+
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/django%20rest-ff1709?style=for-the-badge&logo=django&logoColor=white)
 ![](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
 ![](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
 ![](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
-![](https://img.shields.io/badge/-DOCKER-blue)
 
-
-<h1 align="center">Hi there, I'm Yurii</h1>
-<h3 align="center">I'm a Python developer. Here you can find some of my projects.</h3>
 
 [![codewars](https://www.codewars.com/users/Hedin_11/badges/small)](https://www.codewars.com/users/Hedin_11) 
 
